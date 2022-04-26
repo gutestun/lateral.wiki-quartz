@@ -2,6 +2,10 @@
 title: 🪴 Quartz 3.2
 ---
 
+testing testing lalala
+
+--- 
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
