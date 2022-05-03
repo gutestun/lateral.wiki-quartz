@@ -21,6 +21,6 @@ in meat, beef in particular
 
 ---
 
-podcast:: [huberman-lab-podcast](huberman-lab-podcast.md)
+podcast:: [www/huberman-lab-podcast](huberman-lab-podcast.md)
 topic:: *../../www-old2/nutrition*
-host:: *../Andrew Huberman*
+host:: [www/Andrew Huberman](Andrew%20Huberman.md)

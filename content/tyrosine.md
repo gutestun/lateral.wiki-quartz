@@ -107,7 +107,7 @@ See also:: *../Tyrosine for Depression*
 ---
 
 topic:: *../nutraceutical*. 
-via:: *../huberman lab 11 - how foods and nutrients control our moods*
+via:: [huberman lab 11 - how foods and nutrients control our moods](huberman%20lab%2011%20-%20how%20foods%20and%20nutrients%20control%20our%20moods.md)
 
 source:: *../huberman lab 11 - how foods and nutrients control our moods*  
 source:: [8 Potential L-Tyrosine Benefits + Dosage & Side Effects - SelfHacked](https://selfhacked.com/blog/tyrosine-6-proven-health-benefits-tyrosine/)  
