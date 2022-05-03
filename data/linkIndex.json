@@ -123,6 +123,13 @@
           "text": "huberman-lab-podcast"
         }
       ],
+      "/huberman-lab-podcast": [
+        {
+          "source": "/huberman-lab-podcast",
+          "target": "/Andrew-Huberman",
+          "text": "www/Andrew Huberman"
+        }
+      ],
       "/neuroscience-MOC": [
         {
           "source": "/neuroscience-MOC",
@@ -305,6 +312,11 @@
       "/Andrew-Huberman": [
         {
           "source": "/huberman-lab-11-how-foods-and-nutrients-control-our-moods",
+          "target": "/Andrew-Huberman",
+          "text": "www/Andrew Huberman"
+        },
+        {
+          "source": "/huberman-lab-podcast",
           "target": "/Andrew-Huberman",
           "text": "www/Andrew Huberman"
         }
@@ -707,6 +719,11 @@
       "source": "/huberman-lab-15-how-to-optimize-testosterone-estrogen",
       "target": "/huberman-lab-podcast",
       "text": "huberman-lab-podcast"
+    },
+    {
+      "source": "/huberman-lab-podcast",
+      "target": "/Andrew-Huberman",
+      "text": "www/Andrew Huberman"
     },
     {
       "source": "/neuroscience-MOC",

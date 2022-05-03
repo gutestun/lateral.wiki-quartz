@@ -7,7 +7,7 @@ tags:
   - neuroscience
 ---
 
-Podcast by *../Andrew Huberman*
+Podcast by [www/Andrew Huberman](Andrew%20Huberman.md)
 
 * *Using Science to Optimize Sleep and Metabolism*
 * *How to Focus to Change Your Brain*
